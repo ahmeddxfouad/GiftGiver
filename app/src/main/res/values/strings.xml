@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiftGiver</string>
+    <string name="give_me_a_gift">Give Me A Gift!</string>
+    <string name="gift_giver">Gift Giver</string>
+</resources>
